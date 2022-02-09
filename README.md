@@ -1,8 +1,8 @@
 -r 要扫描的完整http请求包路径 指定-r 会发送请求校验安全问题
 例:
+
 GET /user/userinfo HTTP/1.1
 Host: 127.0.0.1:8081
-
 Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpbklkIjoxMDAwMSwicm4iOiJBUEg2OEpSTXdURWFIN29TZEc2eURwa1c3SXA4bkY5TiJ9.u3xuzKmqKBgcPbTHBk3RitWc25sXfmJCP4ekeZQPKo0
 
 -j 完整的jwt信息
