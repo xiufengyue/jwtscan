@@ -22,3 +22,6 @@ java -jar JWTSCAN.jar -j 完整的jwt信息  -d 指定要爆破的字典
 
 
 java -jar JWTSCAN.jar Original_request.txt -d Key_dictionary.txt
+
+
+<img src="https://github.com/xiufengyue/jwtscan/blob/main/result.png?raw=true" >
